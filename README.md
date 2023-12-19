@@ -1,3 +1,3 @@
 # DIO | Resumos Git e GitHub
-- Desafio do Nível do Héroi;
-- Desafio do Ranking do Héroi;
+- Desafio do Nível do Herói;
+- Desafio do Ranking do Herói;
